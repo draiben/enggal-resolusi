@@ -4,5 +4,7 @@ RENCANA KONTEN ENGGAL
 - JAVASCRIPT
   *ES6
   *Framework javascript
-- Struktur Data Dasar
+    ^angular
+    ^react
 - PHP
+  ^laravel

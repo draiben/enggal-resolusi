@@ -5,6 +5,7 @@ RENCANA KONTEN ENGGAL
   *ES6
   *Framework javascript
     - Vue
+    - react
 - Struktur Data Dasar
 - PHP
   ^Laravel

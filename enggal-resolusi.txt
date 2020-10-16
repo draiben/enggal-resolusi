@@ -2,4 +2,4 @@ Enggal RESOLUSI:
 - Konsisten belajar web programming
 - Membuat course belajar Online melalui platform website
 - bercita-cita menjadi full-stack web developer
-- kolaborasi dengan teman-teman saya
+- membuat project bersama teman-teman
